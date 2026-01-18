@@ -4,7 +4,7 @@ Welcome to Becky Mayer Centre for Phage Research general repo. It contains a col
 
 ## What is BMCPR?
 
-**BMCPR** (Becky Mayer Centre for Phage Research) is part of the research efforts within the phage genomics community at the University of Leicester focusing on bacteriophage biology, genomics, and applied computational methods. The centre is engaged in multidisciplinary research aimed at understanding phage diversity and driving applications such as phage therapy and high-throughput sequencing approaches. :contentReference[oaicite:0]{index=0}
+**BMCPR** (Becky Mayer Centre for Phage Research) is part of the research efforts within the phage genomics community at the University of Leicester focusing on bacteriophage biology, bacteriophage genomics and bacteriophage threapy. The centre is engaged in multidisciplinary research aimed at understanding phage diversity and driving applications such as phage therapy and high-throughput sequencing approaches. 
 
 For more about the Centre and its mission, see the University of Leicester page:  
 🔗 https://le.ac.uk/research/centres/phage-research
@@ -15,7 +15,10 @@ For more about the Centre and its mission, see the University of Leicester page:
   https://github.com/amillard/plaque2seq
 
 - **taxMyPhage (GitHub)** – repo for the taxMyPhage software:
-  https://github.com/amillard/
+  https://github.com/amillard/tax_myPHAGE
+
+- **INPHARED (GitHub)** - INPHARED scripts:
+  https://github.com/RyanCook94/inphared/tree/main
 
 ## Getting Started
 Clone this repo to your machine:
