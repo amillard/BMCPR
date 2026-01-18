@@ -1,8 +1,6 @@
 # BMCPR
 
-Welcome to **BMCPR** — a collection of useful scripts and tools developed to support workflows around bacteriophage genomics, analysis, and related bioinformatics tasks.
-
-This repository holds a set of scripts that might be useful to others working in phage research, sequencing, and computational biology. Whether you’re automating parts of your analysis, testing workflows, or integrating with other pipelines, we hope these resources save you time and effort.
+Welcome to Becky Mayer Centre for Phage Research general repo. It contains a collection of useful (possibly) scripts and tools developed to support workflows around bacteriophage genomics, analysis, and related bioinformatics. The scripts here are used general/random scripts that we often use - which are not associated with a specific project/workflow. 
 
 ## What is BMCPR?
 
