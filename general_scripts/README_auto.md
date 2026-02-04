@@ -1,28 +1,8 @@
 # BMCPR — general_scripts (auto-generated)
 
-| Script | What it does | Inputs | Outputs | Example |
-|---|---|---|---|---|
-| `general_scripts/1_create_fake_headers_for_MS_data.py` | (add a top docstring describing purpose, inputs, outputs) |  |  |  |
-| `general_scripts/auto_readme.py` | (add a top docstring describing purpose, inputs, outputs) |  |  |  |
-| `general_scripts/embl_2_faa.py` | (add a top docstring describing purpose, inputs, outputs) |  |  |  |
-| `general_scripts/embl_2_fasta.py` | (add a top docstring describing purpose, inputs, outputs) |  |  |  |
-| `general_scripts/embl_2_gbk.py` | (add a top docstring describing purpose, inputs, outputs) |  |  |  |
-| `general_scripts/embl_2_gff3.py` | (add a top docstring describing purpose, inputs, outputs) |  |  |  |
-| `general_scripts/gbk_2_faa.py` | (add a top docstring describing purpose, inputs, outputs) |  |  |  |
-| `general_scripts/gbk_2_fasta.py` | (add a top docstring describing purpose, inputs, outputs) |  |  |  |
-| `general_scripts/gbk_2_gff.py` | (add a top docstring describing purpose, inputs, outputs) |  |  |  |
-
 ---
 
 ## `general_scripts/1_create_fake_headers_for_MS_data.py`
-
-**Purpose:** *(add a module docstring at the top of the script)*
-
-**Inputs:**
-- *(document expected inputs here)*
-
-**Outputs:**
-- *(document outputs here)*
 
 **CLI (`--help`):**
 ```text
@@ -60,13 +40,6 @@ options:
 
 ## `general_scripts/auto_readme.py`
 
-**Purpose:** *(add a module docstring at the top of the script)*
-
-**Inputs:**
-- *(document expected inputs here)*
-
-**Outputs:**
-- *(document outputs here)*
 
 **CLI (`--help`):** *(not detected / no argparse found)*
 
@@ -77,13 +50,6 @@ options:
 
 ## `general_scripts/embl_2_faa.py`
 
-**Purpose:** *(add a module docstring at the top of the script)*
-
-**Inputs:**
-- *(document expected inputs here)*
-
-**Outputs:**
-- *(document outputs here)*
 
 **CLI (`--help`):**
 ```text
@@ -109,13 +75,7 @@ options:
 
 ## `general_scripts/embl_2_fasta.py`
 
-**Purpose:** *(add a module docstring at the top of the script)*
 
-**Inputs:**
-- *(document expected inputs here)*
-
-**Outputs:**
-- *(document outputs here)*
 
 **CLI (`--help`):**
 ```text
@@ -142,14 +102,6 @@ options:
 
 ## `general_scripts/embl_2_gbk.py`
 
-**Purpose:** *(add a module docstring at the top of the script)*
-
-**Inputs:**
-- *(document expected inputs here)*
-
-**Outputs:**
-- *(document outputs here)*
-
 **CLI (`--help`):**
 ```text
 usage: embl_2_gbk.py [-h] [-o OUTDIR] [-t THREADS] inputs [inputs ...]
@@ -173,14 +125,6 @@ options:
 ```
 
 ## `general_scripts/embl_2_gff3.py`
-
-**Purpose:** *(add a module docstring at the top of the script)*
-
-**Inputs:**
-- *(document expected inputs here)*
-
-**Outputs:**
-- *(document outputs here)*
 
 **CLI (`--help`):**
 ```text
@@ -206,14 +150,6 @@ options:
 
 ## `general_scripts/gbk_2_faa.py`
 
-**Purpose:** *(add a module docstring at the top of the script)*
-
-**Inputs:**
-- *(document expected inputs here)*
-
-**Outputs:**
-- *(document outputs here)*
-
 **CLI (`--help`):**
 ```text
 usage: gbk_2_faa.py [-h] [-o OUTDIR] [-t THREADS] inputs [inputs ...]
@@ -238,14 +174,6 @@ options:
 
 ## `general_scripts/gbk_2_fasta.py`
 
-**Purpose:** *(add a module docstring at the top of the script)*
-
-**Inputs:**
-- *(document expected inputs here)*
-
-**Outputs:**
-- *(document outputs here)*
-
 **CLI (`--help`):**
 ```text
 usage: gbk_2_fasta.py [-h] [-o OUTDIR] [-t THREADS] inputs [inputs ...]
@@ -269,14 +197,6 @@ options:
 ```
 
 ## `general_scripts/gbk_2_gff.py`
-
-**Purpose:** *(add a module docstring at the top of the script)*
-
-**Inputs:**
-- *(document expected inputs here)*
-
-**Outputs:**
-- *(document outputs here)*
 
 **CLI (`--help`):**
 ```text
